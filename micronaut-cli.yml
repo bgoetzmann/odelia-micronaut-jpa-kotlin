@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: odelia.micronaut.jpa.kotlin
+---
+testFramework: spek
+sourceLanguage: kotlin
