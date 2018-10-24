@@ -35,7 +35,7 @@ dependencies {
     compile "io.micronaut.configuration:micronaut-jdbc-hikari"
     compile "io.micronaut:micronaut-validation"
     compile "io.micronaut.configuration:micronaut-hibernate-validator"
-    runtime "com.h2database:h2:1.4.196"
+    runtime "com.h2database:h2"
     kapt "io.micronaut:micronaut-inject-java"
     kaptTest "io.micronaut:micronaut-inject-java"
     runtime "ch.qos.logback:logback-classic:1.2.3"
